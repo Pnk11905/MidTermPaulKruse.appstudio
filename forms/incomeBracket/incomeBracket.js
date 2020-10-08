@@ -1,3 +1,5 @@
+//Controls, Events, & If else 
+
 /*
 bntSubmit.onclick=function(){
   
